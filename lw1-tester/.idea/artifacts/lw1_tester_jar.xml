@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="lw1-tester:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lw1_tester_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lw1-tester.jar">
+        <element id="module-output" name="lw1-tester" />
+      </element>
+    </root>
+  </artifact>
+</component>

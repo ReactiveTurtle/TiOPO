@@ -1,0 +1,35 @@
+http://91.210.252.240/links/502gateaway502.php - 502
+http://91.210.252.240/links/access401unauthorized.php - 401
+http://91.210.252.240/links/deny403forbidden.php - 403
+http://91.210.252.240/broken-links/js/jquery.min.js - Invalid url
+http://91.210.252.240/broken-links/js/jquery-migrate-3.0.1.min.js - Invalid url
+http://91.210.252.240/broken-links/js/popper.min.js - Invalid url
+http://91.210.252.240/broken-links/js/bootstrap.min.js - Invalid url
+http://91.210.252.240/broken-links/js/jquery.easing.1.3.js - Invalid url
+http://91.210.252.240/broken-links/js/jquery.waypoints.min.js - Invalid url
+http://91.210.252.240/broken-links/js/jquery.stellar.min.js - Invalid url
+http://91.210.252.240/broken-links/js/owl.carousel.min.js - Invalid url
+http://91.210.252.240/broken-links/js/jquery.magnific-popup.min.js - Invalid url
+http://91.210.252.240/broken-links/js/aos.js - Invalid url
+http://91.210.252.240/broken-links/js/jquery.animateNumber.min.js - Invalid url
+http://91.210.252.240/broken-links/js/jquery.mb.YTPlayer.min.js - Invalid url
+http://91.210.252.240/broken-links/js/scrollax.min.js - Invalid url
+http://91.210.252.240/broken-links/js/google-map.js - Invalid url
+http://91.210.252.240/broken-links/js/main.js - Invalid url
+http://91.210.252.240/broken-links/images/partner-1.png - Invalid url
+http://91.210.252.240/broken-links/images/partner-2.png - Invalid url
+http://91.210.252.240/broken-links/images/partner-3.png - Invalid url
+http://91.210.252.240/broken-links/images/partner-4.png - Invalid url
+http://91.210.252.240/broken-links/images/partner-5.png - Invalid url
+http://91.210.252.240/links/locked.php - 423
+http://91.210.252.240/links/un503availible.php - 503
+http://91.210.252.240/links/return500bad.php - 500
+http://91.210.252.240/links/teapot418.php - 500
+tel://1234567920 - Invalid url
+mailto:info@yoursite.com - Invalid url
+http://91.210.252.240/links/404not404found404.php - 404
+http://91.210.252.240/broken-links/images/noimage.jpg - 404
+http://91.210.252.240/broken-links/images/image_2.jpg - Invalid url
+http://91.210.252.240/broken-links/images/person_1.jpg - Invalid url
+33
+Thu Sep 30 12:20:26 GMT+03:00 2021
